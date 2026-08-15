@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jason
 
-### A passionate developer
+### A 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JasonMisco11&label=Profile views&color=0e75b6&style=flat" alt="JasonMisco11" /> </p>
 
