@@ -329,11 +329,7 @@
     <img src="https://www.aliwebs.dev/icons/chatgpt.webp" width="40" height="40" alt="ChatGPT" title="ChatGPT"/>
   </picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.aliwebs.dev/icons/lovable.webp" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.aliwebs.dev/icons/lovable.webp" />
-    <img src="https://www.aliwebs.dev/icons/lovable.webp" width="40" height="40" alt="Lovable AI" title="Lovable AI"/>
-  </picture>
+
 </a>
 <a href="https://claude.ai/" target="_blank" rel="noreferrer">
   <img src="https://www.fortsoft.com.ua/upload/iblock/35e/claude_ai_fortsoft.png" alt="Claude AI" width="40" height="40" />
